@@ -16,7 +16,7 @@ function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/profile.png" alt="my profile pic" />
+          <img src="assets/profile.jpeg" alt="my profile pic" />
         </div>
       </div>
       <div className="right">
